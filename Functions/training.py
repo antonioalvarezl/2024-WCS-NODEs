@@ -19,7 +19,7 @@ losses = {'mse': nn.MSELoss(),
           'linear_sep': CustomLoss(),
          }
 
-class  doublebackTrainer():
+class  Trainer():
     """
     Given an optimizer, we write the training loop for minimizing the functional.
     We need several hyperparameters to define the different functionals.
