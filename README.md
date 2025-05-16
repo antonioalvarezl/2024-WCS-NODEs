@@ -1,4 +1,4 @@
-# 2024-WCS-ClassifNODEs
+# 2024-WCS-NODEs
 
 Neural ODE-based Classification Framework with Controlled Dynamics
 
