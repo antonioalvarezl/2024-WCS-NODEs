@@ -29,7 +29,7 @@ $$
 \Phi_T(x_i;w,a,b)^{(d)} < 1 \quad \text{for all } x_i \text{ such that } y_i = 0.
 $$
 
-![Neural ODE Classification Animation](assets/trajectory.gif)
+![Neural ODE Classification Animation](assets/trajectories.gif)
 
 ## Project Structure
 
