@@ -6,6 +6,17 @@ Neural ODE-based Classification Framework with Controlled Dynamics
 
 This repository contains code from the article "Cluster-based classification with neural ODEs via control," by Antonio Álvarez-López, Rafael Orive-Illera, and Enrique Zuazua.
 
+## Citing 
+@misc{alvarezlopez2025,
+      title={Cluster-based classification with neural ODEs via control}, 
+      author={Antonio Álvarez-López and Rafael Orive-Illera and Enrique Zuazua},
+      year={2025},
+      eprint={2312.13807},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2312.13807}, 
+}
+
 ### Mathematical Background
 
 Consider the neural ODE:
